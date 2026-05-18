@@ -22,7 +22,8 @@ var shapes = [
       1, 1, 1 ]
 ];
 var colors = [
-    'blue', 'blue', 'blue', 'blue', 'blue', 'blue', 'blue'
+    現在の変更を取り込む|入力側の変更を取り込む|両方の変更を取り込む|変更の比較
+    'green', 'green', 'green', 'green', 'green', 'green', 'grwwn'
 ];
 
 // creates a new 4x4 shape in global variable 'current'
